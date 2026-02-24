@@ -33,15 +33,20 @@ The Efficiency Gap: Discovered that as patients age (50+), the Cost-to-Charge Ra
 
 Revenue Drivers: Proved that managing procedural efficiency in high-acuity DRGs (Cardiac, Neonatology) is more impactful for margins than focusing solely on bed occupancy.
 
-## **📈 Visualizations **
+## 📈 Visualizations
 
-### 1. Financial & Operational Correlation
-This heatmap illustrates the strong dependency between Length of Stay and Total Costs, validating LOS as a primary operational lever.
-![Correlation Heatmap](images/heatmap.png)
+### 1. Distribution of Total Charges (Histogram)
+This histogram shows how total charges are distributed across all inpatient stays, helping to identify common billing ranges and outliers.  
+![Total Charges Histogram](images/Distribution_of_Total_Charges_with_KD_Histogram.png)
 
-### 2. Efficiency Trends by Age Group
-The line plot highlights the tightening of the Cost-to-Charge Ratio in older demographics, signaling margin pressure.
-![CCR Trends](images/age_trends.png)
+### 2. Efficiency Trends by Age Group (Line Plot)
+The line plot highlights the tightening of the Cost-to-Charge Ratio (CCR) in older demographics, signaling potential margin pressure and operational inefficiencies.  
+![CCR by Age](images/Cost_to_Charge_Ratio_(CCR)_Trends_LinePlot.png)
+
+
+### 3. Financial & Operational Correlation (Heatmap)
+This heatmap illustrates the strong dependency between Length of Stay (LOS) and Total Costs, validating LOS as a primary operational lever.  
+![Correlation Heatmap](images/Financial_Operational_Correlation_Heatmap.png)
 
 🏁 Conclusion
 The findings suggest that hospital margins are highly sensitive to case complexity, Length of Stay, and severity levels. Financial sustainability depends less on admission volume and more on managing high-cost, high-acuity populations efficiently.
