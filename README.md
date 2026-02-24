@@ -48,7 +48,7 @@ The line plot highlights the tightening of the Cost-to-Charge Ratio (CCR) in old
 This heatmap illustrates the strong dependency between Length of Stay (LOS) and Total Costs, validating LOS as a primary operational lever.  
 ![Correlation Heatmap](images/Financial_Operational_Correlation_Heatmap.png)
 
-🏁 Conclusion
+## 🏁 Conclusion
 The findings suggest that hospital margins are highly sensitive to case complexity, Length of Stay, and severity levels. Financial sustainability depends less on admission volume and more on managing high-cost, high-acuity populations efficiently.
 
 Strategic focus on procedural efficiency and cost monitoring in complex DRGs may yield stronger financial improvements than volume-based growth strategies.
