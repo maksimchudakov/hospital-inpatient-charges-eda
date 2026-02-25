@@ -10,7 +10,7 @@ Instead of focusing only on visualizations, I aimed to extract practical busines
 
 ## **📂 Dataset Information**
 * **Size:** 1M+ records
-* **Source:** [New York State Department of Health (Health Data NY)](https://health.data.ny.gov/) (https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/5dtw-tffi/about_data)
+* **Source:** [New York State Department of Health (Health Data NY)]((https://health.data.ny.gov/Healthcare-Resources/Hospital-Inpatient-Discharges-SPARCS-De-Identified/6p5g-idid/about_data)) (https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/5dtw-tffi/about_data)
 * **Key Features Used:** Facility Name, Age Group, Length of Stay (LOS), APR DRG (Diagnosis Groups), Severity of Illness, Total Costs, and Total Charges.
 
 > [!IMPORTANT]  
