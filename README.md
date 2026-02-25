@@ -8,6 +8,14 @@ The objective was to understand what actually drives hospital charges and how op
 
 Instead of focusing only on visualizations, I aimed to extract practical business insights related to cost structure and hospital performance.
 
+## **📂 Dataset Information**
+* **Size:** 1M+ records
+* **Source:** [New York State Department of Health (Health Data NY)](https://health.data.ny.gov/) (https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/5dtw-tffi/about_data)
+* **Key Features Used:** Facility Name, Age Group, Length of Stay (LOS), APR DRG (Diagnosis Groups), Severity of Illness, Total Costs, and Total Charges.
+
+> [!IMPORTANT]  
+> **Data Access:** Due to GitHub's file size limitations (the dataset exceeds 900MB), the raw CSV file is not included in this repository. To replicate this analysis, please download the 2022 SPARCS dataset directly from the official portal and place it in the project root.
+
 ## **🛠Tech Stack**
 Language: Python 3.x
 
